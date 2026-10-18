@@ -1,0 +1,37 @@
+{
+  "schema": "ricewm.recipe-marketplace/v1",
+  "name": "Amethyst",
+  "version": "1.0.0",
+  "summary": "SGI, Solaris alike recipe",
+  "license": "CC0-1.0",
+  "credits": "Anonymous",
+  "artifact": {
+    "path": "look-agent-amethyst.rice.json",
+    "bytes": 6124255,
+    "sha256": "e69b5683135b6997ab456376321fdf29befd7f4267c9abfc0624906bbb9a40ea"
+  },
+  "media": [
+    {
+      "role": "icon",
+      "path": "media/icon.webp",
+      "alt": "Amethyst recipe icon",
+      "width": 256,
+      "height": 256,
+      "license": "MIT",
+      "credits": "Original RiceWM sharing icon.",
+      "sha256": "da6d0ef5efd3ed7a0f557578dacc4aefadc8b7583c3de9d15b4092cdea4254e8",
+      "bytes": 3424
+    },
+    {
+      "role": "screenshot",
+      "path": "media/screenshot-1.webp",
+      "alt": "Amethyst — desktop capture with sharing dialogs and menus omitted.",
+      "width": 1864,
+      "height": 899,
+      "license": "Depicted assets retain their original licences",
+      "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
+      "sha256": "076f0689feb83afd9a705ba7948dce00d6af0dab54e700b2eb33a853fa9c3af7",
+      "bytes": 532706
+    }
+  ]
+}

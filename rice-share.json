@@ -1,0 +1,6 @@
+{
+  "schema": "ricewm.shared-rice/v1",
+  "kind": "recipe",
+  "package": "look-agent-amethyst.rice.json",
+  "sha256": "e69b5683135b6997ab456376321fdf29befd7f4267c9abfc0624906bbb9a40ea"
+}
